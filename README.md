@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I'm a Data Analyst.
 - 🌱 I’m currently learning Python, statistics, and machine learning.
-- 🖋️ tech blog: [Zenn](https://zenn.dev/green_tea)
+- 🖋️ Tech blogs: [Zenn](https://zenn.dev/green_tea)
 - 📫 How to reach me: [X (Twitter) - @Syuiro_2](https://twitter.com/Syuiro_2)
 <br>
 
